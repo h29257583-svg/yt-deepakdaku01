@@ -65,7 +65,7 @@ jobs:
               "gauravdev833844-gif/py-task-runner": "@BagadBillagang-p6s|UC6_0vYIN2dy3MvBuUSvtZJg",
               "gauravdev833844-gif/py-task-reposit": "@baskarfiroz15|UCSuA9LrSsE4-GSaSYDUZhNw",
               "h29257583-svg/py-task-floxrepo": "@floxiclip|UCNty54b8Vzmk-9BRYfF0EVQ",
-              "h29257583-svg/yt-deepakdaku01": "@thejassilive|UC5TqzXAyi39csmR72vynW2w",
+              "h29257583-svg/yt-deepakdaku01": "@deepakdaku01|UCZ8urRqnOwgMUhpNrWthNkg",
           }
           custom = os.environ.get("CUSTOM_TARGET", "").strip()
           repo = os.environ.get("CURRENT_REPO", "").strip()
